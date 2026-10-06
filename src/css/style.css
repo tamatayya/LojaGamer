@@ -22,5 +22,5 @@
 }
 
 .titulo:hover{
-    animation: acender 0.5s forwards
+    animation: acender 0.5s ease;
 }
